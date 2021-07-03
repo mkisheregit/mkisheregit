@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mkisheregit
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on projects written of web languages. Reactjs will be Plus.
 - 📫 To reach me : mail me at mohitkumarmmkk@gmail.com 
 
